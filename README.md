@@ -1,4 +1,4 @@
-<h3>Welcome to my profile!</h3>
+<h2>Welcome to my profile!</h2>
 
 I'm freshly graduated student that likes to code in her free time. Interested in hardware, software, coginitive science and lingustics but is an artist at heart. 
 Thanks for visiting and I'd love to connect!
