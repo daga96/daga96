@@ -1,6 +1,6 @@
 <h2>Welcome to my profile!</h2>
 
-I'm freshly graduated student that likes to code in her free time. Interested in hardware, software, coginitive science and lingustics but is an artist at heart. 
+I'm freshly graduated student that likes to code in her free time. Interested in hardware, software, coginitive science, lingustics, gaming and art. 
 Thanks for visiting and I'd love to connect!
 
 <a href="www.linkedin.com/in/dagmara-lukanko-130015229">
