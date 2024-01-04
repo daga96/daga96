@@ -1,7 +1,7 @@
 <h2>Welcome to my profile!</h2>
 
-I'm freshly graduated student that likes to code in her free time. Interested in hardware, software, coginitive science, lingustics, gaming and art. 
-Thanks for visiting and I'd love to connect!
+Welcome to my GitHub!
+As a full-stack engineer, I navigate the tracherous lands of JavaScript and all it's glory. Beyond the screen, I'm passionate about a lot of things including gaming, musical theatre, comics and traveling. Join me to change the world with meaningful impact using just computer and IDE (of your choice).
 
 <a href="www.linkedin.com/in/dagmara-lukanko-130015229">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
